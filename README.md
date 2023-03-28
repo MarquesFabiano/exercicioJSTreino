@@ -1,0 +1,1 @@
+Exercicio em js a fim de treinar funções, array e objeto!
